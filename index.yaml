@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo-nodejs-server:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-04-13T11:22:33.4867784+10:00"
+    description: A Helm chart with env variables for containers
+    digest: c369c6a9a69994b9f81862dcbb31982421119343f17547d407032aaf66b1fa73
+    name: demo-nodejs-server
+    type: application
+    urls:
+    - https://corvax.github.io/helm-charts/demo-nodejs-server-0.5.0.tgz
+    version: 0.5.0
+generated: "2021-04-13T11:22:33.4807235+10:00"
